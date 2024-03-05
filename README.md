@@ -1,4 +1,4 @@
-Installationn-Procedure:
+Installation Procedure:
 
 1. Download the zip file as shown in the pictures:
 ![Picture 1](https://github.com/ShuvodipDasSowmik/Space_Shooter/assets/154417645/dfdf6ec1-6db1-456b-97f3-4cf3f5b80a17)
