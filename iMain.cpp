@@ -456,7 +456,7 @@ void iMouse(int button, int state, int mx, int my)
 			gamestate = 3;
 		}
 
-		printf("x = %d, y= %d\n", mx, my);
+		//printf("x = %d, y= %d\n", mx, my);
 	}
 
 	if (button == GLUT_RIGHT_BUTTON && state == GLUT_DOWN)
